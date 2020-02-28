@@ -1,1 +1,3 @@
-# firstrepo
+# maven-project
+
+Simple Maven Project
